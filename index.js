@@ -1,5 +1,3 @@
-module.exports = {
-  isUpperCase(str) {
-    // Your code here;
-  },
-};
+function isUpperCase(str) {}
+
+module.exports = isUpperCase;
