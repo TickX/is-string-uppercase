@@ -1,4 +1,4 @@
-const { isUpperCase } = require('.');
+const isUpperCase = require('.');
 
 describe('isUpperCase Tests', () => {
   it('Testing for c', () => {
