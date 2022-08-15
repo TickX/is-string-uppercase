@@ -1,0 +1,14 @@
+{
+  "name": "is-string-uppercase",
+  "version": "1.0.0",
+  "description": "A repo to write and test a function that determines if a string is fully uppercase",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "TickX",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^28.1.3"
+  }
+}
